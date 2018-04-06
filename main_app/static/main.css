@@ -1,0 +1,5 @@
+/*since we are operating in an insecure server, we run as
+python manage.py runserver --insecure*/
+h1 {
+  color: green;
+}
